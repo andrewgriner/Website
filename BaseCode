@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Andrew Griner - Resume</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Replace with your CSS file link -->
+</head>
+<body>
+    <header>
+        <nav>
+            <!-- You can add navigation links here -->
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="about">
+        <div class="container">
+            <h1>Andrew Griner</h1>
+            <h2>Electrical Engineering Student</h2>
+            <p>
+                I am a student at the University of Florida pursuing a degree in Electrical Engineering with a focus on Computer Science. 
+                I have a passion for technology and love to learn new programming languages and tools to create innovative solutions. I love troubleshooting and understanding technology better.
+            </p>
+        </div>
+    </section>
+
+    <section id="education">
+        <div class="container">
+            <h2>Education</h2>
+            <p>
+                <strong>University of Florida</strong> - Gainesville, FL<br>
+                Bachelor of Science in Electrical Engineering - Expected Graduation: 2026<br>
+                Focus: Computer Science
+          
+            </p>
+        </div>
+    </section>
+
+    <section id="skills">
+        <div class="container">
+            <h2>Skills</h2>
+            <ul>
+                <li>Programming Languages: Python, C++, and HTML</li>
+                <li>Web Development: Coded my own website in HTML, and know the basics of web developemnt</li>
+                <li>Electrical Engineering Concepts: Breadboarding, Circuits, and a general understanding of electricity</li>
+                <li>Problem Solving and Analytical Skills</li>
+                <li>Communication Skills</li>
+                <li>Life Long Learner</li>
+                <!-- Add more skills as needed -->
+            </ul>
+        </div>
+    </section>
+
+
+
+    <section id="related-coursework">
+        <div class="container">
+            <h2>Related Course Work</h2>
+            <ul>
+                <li>Introduction to Electrical Engineering</li>
+                <li>Introduction to Computer Science</li>
+                <li>Circuit Analysis</li>
+                <li>Data Structures and Algorithms</li>
+                <li>Microprocessors and Embedded Systems</li>
+                <li>Linear Control Systems</li>
+                <li>Signals and Systems</li>
+                <li>Digital Logic and Design</li>
+                <li>Software Engineering</li>
+                <li>Database Management Systems</li>
+                <!-- Add more relevant courses you have taken or are taking -->
+            </ul>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contact Me</h2>
+            <p>
+                Email: drewgriner@outlook.com<br>
+                LinkedIn: <a href="linkedin.com/in/andrew-griner">linkedin.com/in/andrew-griner</a><br>
+                GitHub: <a href="https://github.com/andrewgriner">https://github.com/andrewgriner</a><br>
+            </p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Andrew Griner. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
+
